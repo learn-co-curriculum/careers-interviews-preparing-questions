@@ -71,11 +71,28 @@ Compensation
 
 Employers want to hire people who are focused on contributing to a team writing code, and working with great people. Those should be your priorities when you’re asking questions. 
 
-## Assignment
+## Assignment- Preparing Questions for Interviews
 
-Write a journal entry reflecting on how you think you’ve asked questions in the past and what you want to focus on when you prepare for future interviews. 
+Create a Google doc. Title it ""Your Name" + Preparing Questions for Interviews."
+
+Regardless of whether you're interviewing with them or whether it's a dream company, what's a company that you're interested in? 
+
+Do your research and write three questions that you would ask at the end of a interview you would have with people from the company. 
+
+**Submit** your assignment to careerprep@flatironschool.com. Remember in the subject line to include your name and this specific assignment.
+
+In this case, your email subject line will be “”Your Name” + Preparing Questions for Interviews.”
+
+In the body of your email again include:
+>Your Name
+
+>Assignment Title
+
+>Your City, State
+
+>Url to this specific Google document
 
 
-
+Update your Careers Prep Tracker sheet.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-interviews-preparing-questions'>Careers Interviews Preparing Questions</a> on Learn.co and start learning to code for free.</p>
