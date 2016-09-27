@@ -71,7 +71,7 @@ Compensation
 
 Employers want to hire people who are focused on contributing to a team writing code, and working with great people. Those should be your priorities when you’re asking questions. 
 
-## Assignment- Preparing Questions for Interviews
+## If You Have a Premium Account: Assignment- Preparing Questions for Interviews
 
 Create a Google doc. Title it ""Your Name" + Preparing Questions for Interviews."
 
