@@ -71,30 +71,9 @@ Compensation
 
 Employers want to hire people who are focused on contributing to a team writing code, and working with great people. Those should be your priorities when you’re asking questions. 
 
-## If You Have a Premium Account: Assignment- Preparing Questions for Interviews
+## Next Steps
 
-Create a Google doc. Title it ""Your Name" + Preparing Questions for Interviews."
+Regardless of whether you're interviewing with them or whether it's a dream company, what's a company that you're interested in? Do your research and write three questions that you would ask at the end of a interview you would have with people from the company. Take time to review these questions with your coach for feedback.
 
-Regardless of whether you're interviewing with them or whether it's a dream company, what's a company that you're interested in? 
-
-Do your research and write three questions that you would ask at the end of a interview you would have with people from the company. 
-
-**Email** your assignment to your coach. You'll be assigned a coach once you're through ~75% of the full stack web track so if you don't have a coach now, just keep learning to code and we'll get you set up with one when we feel you're ready to focus on career preparation in addition to technical curriculum. Once you have a coach, you can start submitting assignments.
-
-Remember in the subject line to include your name and this specific assignment.
-
-In this case, your email subject line will be “”Your Name” + Preparing Questions for Interviews.”
-
-In the body of your email again include:
->Your Name
-
->Assignment Title
-
->Your City, State
-
->Url to this specific Google document
-
-
-Update your Careers Prep Tracker sheet.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-interviews-preparing-questions'>Careers Interviews Preparing Questions</a> on Learn.co and start learning to code for free.</p>
