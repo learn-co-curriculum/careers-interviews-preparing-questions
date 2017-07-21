@@ -42,7 +42,7 @@ If you do thorough research, are a curious person (which you are) and have a gen
 
 Don’t ask a vague question like “What is your company culture?". This question is weak and wastes your interviewer’s time, because you can easily find that answer on the company’s website or blog. However, you can ask a question about a company’s culture that demonstrates you did research, and turn that weak question into a strong one. See an example below: 
 
->“I read on your blog that [Company name] emphasizes an open culture where developers are encouraged to contribute to open >source projects. Can you elaborate on that and what it means for your team?”
+>“I read on your blog that [Company name] emphasizes an open culture where developers are encouraged to contribute to open source projects. Can you elaborate on that and what it means for your team?”
 
 ## When Do You Ask Questions? 
 
