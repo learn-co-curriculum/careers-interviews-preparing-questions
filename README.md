@@ -75,5 +75,9 @@ Employers want to hire people who are focused on contributing to a team writing 
 
 Regardless of whether you're interviewing with them or whether it's a dream company, what's a company that you're interested in? Do your research and write three questions that you would ask at the end of a interview you would have with people from the company. Take time to review these questions with your coach for feedback.
 
+## Resources
+
+- [10 Job Interview Questions You Should Ask](https://www.forbes.com/sites/nextavenue/2014/06/18/10-job-interview-questions-you-should-ask/#5c98a0a3ace2)
+
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-interviews-preparing-questions'>Careers Interviews Preparing Questions</a> on Learn.co and start learning to code for free.</p>
