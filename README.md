@@ -23,16 +23,16 @@ While you’re poring over the **company’s** website, blog, and linkedIn page,
 - Future plans the company has for growth or new products 
 - The company’s mission/values and how they align with your own
 
-While you’re furiously reading the LinkedIn profiles of the **people** on the engineering team at the company, thinking about the things below can lead to great questions and, in turn, great conversation:
+While you’re furiously reading the LinkedIn profiles of the **people** on the hiring team at the company, thinking about the things below can lead to great questions and, in turn, great conversation:
 
-- Technologies the developers use
+- Technologies the team uses
 - Organizational structure
 - Existing team’s strengths, backgrounds
 
 As you review the **job** description line by line, what are you wondering about the [insert example job description bullet here]. 
 
 - The company's technical challenges
-- Technologies their developers use
+- Technologies their team uses
 - Cross-functional roles and communicating with other teams
 - Opportunities to work on side projects and contribute to open source project
 
@@ -42,7 +42,7 @@ If you do thorough research, are a curious person (which you are) and have a gen
 
 Don’t ask a vague question like “What is your company culture?". This question is weak and wastes your interviewer’s time, because you can easily find that answer on the company’s website or blog. However, you can ask a question about a company’s culture that demonstrates you did research, and turn that weak question into a strong one. See an example below: 
 
->“I read on your blog that [Company name] emphasizes an open culture where developers are encouraged to contribute to open source projects. Can you elaborate on that and what it means for your team?”
+>“I read on your blog that [Company name] emphasizes an open culture where employees are encouraged to contribute to open source projects. Can you elaborate on that and what it means for your team?”
 
 ## When Do You Ask Questions? 
 
@@ -62,22 +62,19 @@ Anything related to vacation, working remotely, benefits, perks, review cycle, o
 Questions about whether mentorship is offered at the company. 
 
 - **Why?** Some companies have formal mentoring programs set up where employees are assigned a mentor, but not all do. If a company doesn’t mention mentoring first, don’t bring it up because the employer may not feel like they can give you the support you want (and thus conclude that you’re not a fit for the company). Additionally, candidates who focus on asking for mentorship are seen as less capable and required to be more closely supervised and less likely to contribute to a team.
-- **A better way to ask:** “How do you approach onboarding new developers?” ; “What is your feedback culture like at [Company name]?” 
+- **A better way to ask:** “How do you approach onboarding employees?” ; “What is your feedback culture like at [Company]?” 
 
 Compensation
 
 - **Why?** Asking questions about compensation makes an employer question your motivations and think you only care about money.
 - **A better way to ask:** Don't ask at any time. The employer should bring up the compensation. 
 
-Employers want to hire people who are focused on contributing to a team writing code, and working with great people. Those should be your priorities when you’re asking questions. 
+Employers want to hire people who are focused on contributing to a team specialized in what they do, and working with great people. Those should be your priorities when you’re asking questions. 
 
 ## Next Steps
 
-Regardless of whether you're interviewing with them or whether it's a dream company, what's a company that you're interested in? Do your research and write three questions that you would ask at the end of a interview you would have with people from the company. Take time to review these questions with your coach for feedback.
+Regardless of whether you're interviewing with them or whether it's a dream company, what's a company that you're interested in? Do your research and write three questions that you would ask at the end of an interview you would have with people from the company. Take time to review these questions with your coach for feedback.
 
 ## Resources
 
 - [10 Job Interview Questions You Should Ask](https://www.forbes.com/sites/nextavenue/2014/06/18/10-job-interview-questions-you-should-ask/#5c98a0a3ace2)
-
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-interviews-preparing-questions'>Careers Interviews Preparing Questions</a> on Learn.co and start learning to code for free.</p>
