@@ -16,7 +16,7 @@ You may have had questions prepared that over the course of the interview get an
 
 Start by doing your research (we have a detailed lesson on this that you’ve already finished by this point). You will focus on three types of research: **the company, the people, and the job**. As you conduct your research, it should be easy to formulate questions for your interviewer. 
 
-While you’re poring over the **company’s** website, blog, and linkedIn page, jot down notes about what stands out to you, or what you’re curious to learn more about. Below are examples of what to think about: 
+While you’re pouring over the **company’s** website, blog, and linkedIn page, jot down notes about what stands out to you, or what you’re curious to learn more about. Below are examples of what to think about: 
 
 - Goals the company has for its employees and the organization
 - Problems the company is solving
