@@ -57,7 +57,7 @@ In general, you ask a question, the interviewer responds, and then you follow up
 Anything related to vacation, working remotely, benefits, perks, review cycle, or work-life balance
 
 - **Why?** Asking questions about these topics makes an employer question your motivations and think you only care about what’s in it for you.
-- **A better way to ask**:Don’t ask any questions relating to these topics at any time during the interview process. When a job offer is on the table is the only time it’s appropriate (most of the above should be explained in an offer letter).
+- **A better way to ask**: Don’t ask any questions relating to these topics at any time during the interview process. When a job offer is on the table is the only time it’s appropriate (most of the above should be explained in an offer letter).
 
 Questions about whether mentorship is offered at the company. 
 
